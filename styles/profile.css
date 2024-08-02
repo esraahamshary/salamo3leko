@@ -1,0 +1,20 @@
+.profile {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: #ffffff;
+    color: #001f3f; /* Navy color */
+  }
+  
+  .profile h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .profile p {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #555;
+  }
+  
